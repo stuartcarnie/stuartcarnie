@@ -2,7 +2,8 @@
 
 You can reach me
 
-- <a rel="me" href="https://mastodon.social/@stuartcarnie">Mastodon</a>
+- X <a rel="me" href="https://x.com/stuartcarnie">stuartcarnie</a>
+- Mastodon <a rel="me" href="https://mastodon.social/@stuartcarnie">stuartcarnie</a>
 
 <!--
 **stuartcarnie/stuartcarnie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
