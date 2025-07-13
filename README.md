@@ -2,6 +2,7 @@
 
 You can reach me
 
+- BlueSky <a rel="me" href="https://bsky.app/profile/stuartcarnie.bsky.social">stuartcarnie.bsky.social</a>
 - X <a rel="me" href="https://x.com/stuartcarnie">stuartcarnie</a>
 - Mastodon <a rel="me" href="https://mastodon.social/@stuartcarnie">stuartcarnie</a>
 
